@@ -13,7 +13,7 @@ I like taking messy operational data, finding the story in it, and presenting it
 | **Data & analysis** | SQL, Google Sheets / Excel (advanced), Looker, Tableau |
 | **Automation** | Google Apps Script, JavaScript, Appian (process models, SAIL, integrations) |
 | **Web** | HTML, CSS, JavaScript |
-| **AI** | Claude (custom skills, agents), Gemini, NotebookLM, LLM-assisted classification |
+| **AI** | **Claude**: Claude Code, Claude Design, Skills, MCP servers, plugins · **Gemini**: across Google Workspace · **Muse**: with connectors |
 | **Policy** | Policy & problem analysis, cost-benefit analysis, AI governance |
 
 ---
