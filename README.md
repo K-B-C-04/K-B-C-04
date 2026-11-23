@@ -20,6 +20,9 @@ I like taking messy operational data, finding the story in it, and presenting it
 
 #### 📂 Featured projects
 
+**[AI Adoption & Enablement](https://github.com/K-B-C-04/ai-adoption-enablement)** · [▶ live demo](https://k-b-c-04.github.io/ai-adoption-enablement/)
+How to scale an internal AI assistant responsibly. Tracks adoption by department, which knowledge the assistant can answer from, the support demand it absorbs, and which high-risk topics (payroll, benefits, legal holds, privacy) need governance before going live. Includes a [strategy brief](https://github.com/K-B-C-04/ai-adoption-enablement/blob/main/STRATEGY_BRIEF.md) with a sequenced rollout, owners and success measures. *JavaScript · Chart.js · Python · Google Sheets (original)*
+
 **[Workforce Lifecycle Operations](https://github.com/K-B-C-04/workforce-lifecycle-ops)** · [▶ live demo](https://k-b-c-04.github.io/workforce-lifecycle-ops/)
 Brings onboarding, offboarding and contractor operations into one view, then turns it into decisions. It shows whether the team can absorb a hiring wave, how much hardware is still outstanding after people leave, and how dependent the business is on a few staffing vendors. Includes a one-page [operations brief](https://github.com/K-B-C-04/workforce-lifecycle-ops/blob/main/OPS_BRIEF.md) with recommendations, owners and success measures. *JavaScript · Chart.js · Python · Google Sheets (original)*
 
