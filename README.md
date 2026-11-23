@@ -29,6 +29,9 @@ Brings onboarding, offboarding and contractor operations into one view, then tur
 **[Support Operations Trends](https://github.com/K-B-C-04/support-operations-trends)**
 Finds the blockers behind support tickets raised by business units, traces them to their source, and routes them to the team that can fix them. It surfaces trending issues from keywords in ticket text over a rolling window, groups tickets with tags, and tracks application health (records impacted, downtime). It also shows Legal, Finance, and HR what each issue needs to reach a resolution. *Apps Script · Google Sheets · Gemini · SQL · Python*
 
+**[Outside Collective Performance](https://github.com/K-B-C-04/outside-collective-dashboard)** · [▶ live dashboard](https://k-b-c-04.github.io/outside-collective-dashboard/)
+The operating dashboard for a DC social events community I organize: 11 events, 652 tickets and 145K Instagram views since April 2026. Tracks the funnel from views to tickets to check-ins, booking lead time and capacity, returning buyers, and which content drives demand, turning each into a next step for strategy, operations and growth. *JavaScript · Chart.js · Python · Posh and Instagram data*
+
 ---
 
 #### 🎓 Currently
